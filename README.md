@@ -41,6 +41,10 @@ it just respons "true" but nothing happens.
 
 You know what i am doing wrong? Thanks for your time and efford, Greetings
 
-for it
+Here's a line for us to start with.
 
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a sep
 
