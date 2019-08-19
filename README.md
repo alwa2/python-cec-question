@@ -32,19 +32,11 @@ it mutes my tv.
 
 When i try to use the funktion 
 ```python
-cec.transmit(destination, opcode, parameters)
-```
 destination = 0x0
 opcode = 0x44
 parameters = bytes([0x30])
+cec.transmit(destination, opcode, parameters)
+```
 it just respons "true" but nothing happens.
 
 You know what i am doing wrong? Thanks for your time and efford, Greetings
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a sep
-
