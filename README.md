@@ -1,7 +1,7 @@
 # Question to python-cec
 
 Hi there,
-i am using your repository python-cec to control my tv via a intel nuc with openhab. It works quit well, i can turn on and off the tv and change the volume, for example with the command:
+i am using your repository python-cec to control my tv via a Raspberry PI with openhab. I use a SONY KDL 42W705B. It works quit well, i can turn on and off the tv and change the volume, for example with the command:
 ```python
 cec.volume_up()
 ```
@@ -39,4 +39,4 @@ cec.transmit(destination, opcode, parameters)
 ```
 it just respons "true" but nothing happens.
 
-You know what i am doing wrong? Thanks for your time and efford, Greetings
+You know what i am doing wrong? Thanks for your time and efford, Greetings Gideon
